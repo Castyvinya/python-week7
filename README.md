@@ -1,3 +1,8 @@
+# the dataset we are using for the three tasks
+
+this was our dataset path 
+file_path = r"C:\Users\user\car_price_dataset.csv"
+
 # python-week7
 below are the outputs of each task
 # task 1
